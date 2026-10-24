@@ -1,0 +1,6 @@
+{
+  "source": "checkpoint_125/snapshot/branches/C/round7/check_examples.py",
+  "source_sha256": "9a67074ba5240c75bfdac16aa8608f6430ffd2c7f624eeafb2fabbcc747132d8",
+  "relationship": "New reduced implementation based on the inspected subset-sum example; not a byte-for-byte copy.",
+  "third_party_code_vendored": false
+}
